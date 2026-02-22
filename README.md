@@ -25,11 +25,11 @@ This identifies which category drives operational demand.
 3 Wait Time Distribution by Call Purpose
 A boxplot comparing wait times across different call types to evaluate service efficiency and potential customer impact.
 
-Key Findings
+Key Findings:
 The North branch demonstrates higher and more variable wait times.
 Product Support accounts for the majority of call volume.
 Complaint calls experience the longest median wait times.
 Operational adjustments may improve service consistency and customer satisfaction.
 
-Conclusion
+Conclusion:
 This analysis demonstrates how data visualization can uncover operational inefficiencies and support data-driven decision-making. By leveraging Matplotlib, the project transforms raw data into actionable business insights.
