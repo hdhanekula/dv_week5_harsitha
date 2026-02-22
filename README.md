@@ -10,18 +10,19 @@ Draw data-driven conclusions about operational performance
 
 
 Visualizations Created
-1️ Wait Time Distribution by Branch
+
+1 Wait Time Distribution by Branch
 A boxplot comparing total wait times between North and South branches.
 This visualization highlights differences in median wait times and variability.
 
-2️ Call Volume by Purpose
+2 Call Volume by Purpose
 A bar chart showing distribution of calls across:
 Product Support
 Complaint
 Sales Support
 This identifies which category drives operational demand.
 
-3️ Wait Time Distribution by Call Purpose
+3 Wait Time Distribution by Call Purpose
 A boxplot comparing wait times across different call types to evaluate service efficiency and potential customer impact.
 
 Key Findings
